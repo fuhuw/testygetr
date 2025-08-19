@@ -1,6 +1,5 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
- 
 let Pswd = "wudu";
 const proxyIPs = ["yx1.9898981.xyz"];
 let cn_hostnames = [''];
